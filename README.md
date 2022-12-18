@@ -8,4 +8,4 @@
 
 ----
 
-<stron>FIN</strong>
+<strong>FIN</strong>
