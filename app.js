@@ -36,6 +36,7 @@ const randomize = () => {
     cardData.sort(() => Math.random() - 0.5);
     console.log(cardData)
     return cardData;
+    console.log("rad")
 }
 
 
