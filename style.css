@@ -62,7 +62,7 @@ section {
     transform: rotateY(180deg)
 }
 
-@media (max-width: 450px) {
+@media (max-width: 500px) {
     section {
         display: grid;
         grid-template-columns: repeat(4,4rem);
